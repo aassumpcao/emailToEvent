@@ -1,5 +1,5 @@
 # emailToEvent
-Applet to create events in iCal from Mail messages.
+Applet to create events in Apple's Calendar from Mail messages.
 
 # Description
 I have always been troubled by the limitations in Apple's Mail app, e.g. you can't drag and drop email messages onto your calendar without losing content, you can't add read receipts, you can't send emails to be delivered later, etc. Having said this, this is my small contribution to fill in the gap.
