@@ -13,3 +13,6 @@ Thanks and enjoy,
 Andre
 
 andre.assumpcao@gmail.com
+
+# Notes
+I have created an Outlook version of the script with Apple Calendar integration but it only works when you assign a keyboard shortcut from Services preferences. 
